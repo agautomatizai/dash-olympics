@@ -1,4 +1,5 @@
 # 📊 dash-olympics
+Acesse aqui: https://agautomatizai.github.io/dash-olympics/dashboard.html
 
 ## 🎯Objetivo
 Evolução dos Jogos Olímpicos: Uma Análise Histórica.
